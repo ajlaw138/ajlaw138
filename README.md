@@ -12,6 +12,8 @@
         - Single song input that generates suggestions of similar sounding songs
         - Examines user taste to determine suggestions
         - Supervised learning feedback on recommendations
+       
+        
 🍣 *These are personal hobby projects and are in no way affiliated/linked to any instituion or company that I work or have studied at* 🍣
 
 
