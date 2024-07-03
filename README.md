@@ -1,6 +1,8 @@
 ### Hey there 👋 Welcome to my profiel! :D 
 
-🌱 I’m currently starting two passion projects:
+🏢 I am currently working on a work project, building out a trade simulator. See u/alaw-at-pwc for more info.
+
+🌱 I’m yet to start two passion projects, but I will:
   - Optimised journey planner for Thameslink 🚆
       - 💻 Features include:
         - Departure boards for specified stations
